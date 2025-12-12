@@ -56,14 +56,9 @@ tput sgr0
 [ -d $HOME"/.config/xfce4/xfconf" ] || mkdir -p $HOME"/.config/xfce4/xfconf"
 [ -d $HOME"/.config/gtk-3.0" ] || mkdir -p $HOME"/.config/gtk-3.0"
 [ -d $HOME"/.config/gtk-4.0" ] || mkdir -p $HOME"/.config/gtk-4.0"
-[ -d $HOME"/.config/variety" ] || mkdir -p $HOME"/.config/variety"
-[ -d $HOME"/.config/fish" ] || mkdir -p $HOME"/.config/fish"
-[ -d $HOME"/.config/obs-studio" ] || mkdir -p $HOME"/.config/obs-studio"
 [ -d $HOME"/.config/neofetch" ] || mkdir -p $HOME"/.config/neofetch"
-[ -d $HOME"/DATA" ] || mkdir -p $HOME"/DATA"
-[ -d $HOME"/Insync" ] || mkdir -p $HOME"/Insync"
-[ -d $HOME"/Projects" ] || mkdir -p $HOME"/Projects"
-[ -d $HOME"/SHARED" ] || mkdir -p $HOME"/SHARED"
+
+
 
 echo
 tput setaf 2
@@ -74,26 +69,15 @@ tput sgr0
 echo
 
 echo
-echo "Brave no gnome-keyring popup"
-echo
-cp  $installed_dir/settings/brave/brave-browser.desktop $HOME/.local/share/applications/brave-browser.desktop
-echo
-
-echo
 echo "Sublime text settings"
 echo
 [ -d $HOME"/.config/sublime-text/Packages/User" ] || mkdir -p $HOME"/.config/sublime-text/Packages/User"
 cp  $installed_dir/settings/sublimetext/Preferences.sublime-settings $HOME/.config/sublime-text/Packages/User/Preferences.sublime-settings
 echo
 
-echo "Blueberry symbolic link"
+echo "Tozsh we go"
 echo
-#uncommenting so that we see the bluetooth icon in our toolbars
-gsettings set org.blueberry use-symbolic-icons false
-
-echo "Tofish we go"
-echo
-sudo chsh $USER -s /bin/fish
+sudo chsh $USER -s /bin/zsh
 
 echo
 tput setaf 6

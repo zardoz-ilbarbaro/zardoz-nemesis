@@ -1,0 +1,17 @@
+{
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"font_size": 14,
+	"translate_tabs_to_spaces": true,
+	"hot_exit": "disabled",
+	"overlay_scroll_bars": "disabled",
+	"remember_layout": true,
+	"hardware_acceleration": "opengl",
+	"show_encoding": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage",
+	],
+	"index_files": false,
+}

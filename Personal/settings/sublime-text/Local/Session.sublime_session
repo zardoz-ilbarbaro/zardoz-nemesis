@@ -1,0 +1,1753 @@
+{
+	"file_history":
+	[
+		"/home/dave/.config/paru/paru.conf",
+		"/home/dave/.config/gtk-2.0/gtkfilechooser.ini",
+		"/home/dave/.config/dconf/settings/gsettings.sh",
+		"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/xfce4-taskmanager.rc",
+		"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/xfce4-screenshooter",
+		"/home/dave/ErikDubois/kiro-nemesis/install/install-virtualbox-for-linux.sh",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/930-real-metal.sh",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/999-last-changes.sh",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/990-skel.sh",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/gpg.conf",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/920-kiro.sh",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/settings/sublimetext/Preferences.sublime-settings",
+		"/home/dave/ErikDubois/kiro-nemesis/Personal/900-install-personal-settings-folders.sh",
+		"/etc/qemu/bridge.conf",
+		"/home/dave/ARCH-ISO/AA/build-archlinux-with-alis.sh",
+		"/home/dave/ARCH-ISO/alis/alis.conf",
+		"/home/dave/ARCH-ISO/alis/alis-packages.conf",
+		"/etc/pacman.conf",
+		"/home/dave/.zshrc",
+		"/home/dave/ARCH-ISO/alis/files/home/zardoz/.conf/Thunar/accels.scm",
+		"/home/dave/ARCH-ISO/alis/files/home/zardoz/.conf/Thunar/renamerrc",
+		"/home/dave/.config/Thunar/uca.xml",
+		"/home/dave/.config/xfce4/panel/xfce4-clipman-actions.xml",
+		"/home/dave/.config/xfce4/panel/netload-9.rc",
+		"/home/dave/.config/xfce4/panel/whiskermenu-7.rc.copy",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml",
+		"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml",
+		"/etc/libvirt/qemu/archlinux-alis.xml",
+		"/etc/libvirt/virtqemud.conf",
+		"/etc/libvirt/libvirtd.conf",
+		"/etc/libvirt/libvirt.conf",
+		"/etc/libvirt/qemu.conf",
+		"/home/dave/prova.txt",
+		"/home/dave/ARCH-ISO/alis/up.sh",
+		"/home/dave/ARCH-ISO/alis/alis-recovery.conf",
+		"/etc/mkinitcpio.conf",
+		"/home/dave/ARCH-ISO/alis/start.sh",
+		"/home/dave/ARCH-ISO/alis/2-setup-git.sh",
+		"/home/dave/ARCH-ISO/AA/alis",
+		"/home/dave/ErikDubois/area/build-archlinux-with-alis.sh",
+		"/home/dave/ErikDubois/area/alis",
+		"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/dconf/user",
+		"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/helpers.rc",
+		"/home/dave/ErikDubois/kiro-nemesis/0-current-choices.sh",
+		"/home/dave/ErikDubois/edu-dot-files/etc/skel/.config/qt5ct/qt5ct.conf",
+		"/home/dave/ErikDubois/edu-dot-files/usr/local/share/edu/pacman.conf",
+		"/home/dave/ErikDubois/edu-dot-files/usr/local/share/edu/mirrorlist",
+		"/home/dave/ErikDubois/edu-dot-files/setup-edu.sh",
+		"/home/dave/ErikDubois/edu-pkgbuild/edu-shells/build-data.sh",
+		"/home/dave/ErikDubois/edu-pkgbuild/build-data.sh",
+		"/home/dave/ErikDubois/edu-pkgbuild/91-copy-build-file-to-all-folders.sh",
+		"/home/dave/ErikDubois/edu-pkgbuild/1-build-all-packages.sh",
+		"/home/dave/ARCH-ISO/alis/.git/config",
+		"/home/dave/ARCH-ISO/alis/cloud-init/user-data",
+		"/home/dave/ARCH-ISO/alis/configs/alis-config-efi-ext4-systemd.sh",
+		"/home/dave/ARCH-ISO/alis/1-up.sh",
+		"/home/dave/ARCH-ISO/alis/download.sh",
+		"/home/dave/Scrivania/_OP.txt",
+		"/home/dave/ARCH-ISO/alis/alis-packages.sh",
+		"/home/dave/ARCH-ISO/alis/alis.sh",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/corsi-tecnici.php",
+		"/home/dave/ARCH-ISO/AA/nanorc",
+		"/home/dave/ARCH-ISO/AA/README.md",
+		"/home/dave/ARCH-ISO/AA/2-setup-git.sh",
+		"/home/dave/ARCH-ISO/AA/1-up.sh",
+		"/home/dave/.ssh/id_ed25519.pub",
+		"/home/dave/.ssh/known_hosts",
+		"/home/dave/.ssh/known_hosts.old",
+		"/home/dave/.ssh/id_ed25519",
+		"/home/dave/AA/AA/2-setup-git.sh",
+		"/home/dave/AA/AA/1-git.sh",
+		"/home/dave/AA/AA/.git/config",
+		"/home/dave/AA/AA/up.sh",
+		"/home/dave/AA/AA/set-git.sh",
+		"/home/dave/AA/2-setup-git.sh",
+		"/home/dave/AA/build-arch-alis-iso.sh",
+		"/home/dave/AA/1-git.sh",
+		"/home/dave/AA/alis/alis.sh",
+		"/home/dave/AA/alis/cloud-init/user-data",
+		"/home/dave/AA/alis/cloud-init/meta-data",
+		"/home/dave/AA/original-alis/files/etc/X11/xorg.conf.d/99-killX.conf",
+		"/home/dave/AA/original-alis/cloud-init/meta-data",
+		"/home/dave/AA/original-alis/cloud-init/user-data",
+		"/home/dave/ErikDubois/nemesis_repo/setup-edu.sh",
+		"/home/dave/ErikDubois/arcolinux-nemesis/Personal/settings/voyage-of-chadwm/anduin-chadwm/build-install-gittyup.sh",
+		"/home/dave/ErikDubois/arcolinux-nemesis/setup-git-v5.sh",
+		"/home/dave/ErikDubois/kiro-nemesis/setup-git-v5.sh",
+		"/etc/default/grub",
+		"/home/dave/Scrivania/virt-manager.desktop",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/custom.css",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori-home.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/adempimenti-burocratici/adempimenti-burocratici.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/app2.css",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/bootstrap.css",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/registro-carico-scarico/registro-carico-scarico.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/onboarding-benvenuto/onboarding-benvenuto.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/corsi-tecnici-2.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/22 - codice vba conta e somma per colore.txt",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/17.1PowerPivot2SourceData2.txt",
+		"/mnt/Ubuntu_Home/dave/Ufficio/Hera/fornitori/help-contratti.txt",
+		"/tmp/fz3temp-2/CLAUDE.md",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/academy-interna/academy-interna.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-gestori-home.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-gestori.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-home.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-dipendenti.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-dipendenti-home.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/parametri.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/soft-skills/soft-skills.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/procedure/procedure.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/procedura-scarico-prodotti-petroliferi/procedura-scarico-prodotti-petroliferi.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori-login.php",
+		"/tmp/fz3temp-2/index.html",
+		"/home/dave/pixelCloud/ACADEMY Retitalia 2025/Area riservata dipendenti/Corsi tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/22 - codice vba conta e somma per colore.txt",
+		"/home/dave/pixelCloud/ACADEMY Retitalia 2025/Area riservata dipendenti/Corsi tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/17.1PowerPivot2SourceData2.txt",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/index.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/css/font-awesome.min.css",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/css/style.css",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/james_vallicelli.php",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/jquery-ui.js",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/html5.js",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/custom.js"
+	],
+	"folder_history":
+	[
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/Hera/Acegas/Sito/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/old/www-1-1",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www-2",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www-3",
+		"/mnt/Ubuntu_Home/dave/Lavori/Hera/Acegas/Sito/test",
+		"/mnt/Ubuntu_Home/dave/Lavori/Gaia/benessere/www",
+		"/home/dave/websites/mfos2/www",
+		"/home/dave/websites/mfos2",
+		"/home/dave/websites/ms2600ng/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/AdessoCasa/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/TTPTI/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/Hera/Acegas/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/M2Bridge",
+		"/mnt/Ubuntu_Home/dave/Lavori/Hera/Ciuffi/www",
+		"/home/dave/websites/LW/www.loudestwarning.co.uk/portfolio",
+		"/home/dave/websites/LW/www.loudestwarning.co.uk",
+		"/mnt/Ubuntu_Home/dave/Lavori/3Pix/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia/wizard_carte/www",
+		"/mnt/Ubuntu_Home/dave/Lavori/Hera/UniFlotte/www",
+		"/home/dave/Scrivania/Pease",
+		"/mnt/Ubuntu_Home/dave/Lavori/TheMenlove/www",
+		"/run/media/dave/7aa4ce80-dc75-4e2d-b181-c26c9905e69e/dave/Lavori/Hera/UniFlotte/www"
+	],
+	"last_version": 4200,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"next_update_check": 1764829976,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1204.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			1120.0,
+			189.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"box-cor",
+						"box-corsi-item"
+					],
+					[
+						"m",
+						"margin-bottom"
+					],
+					[
+						"s",
+						"strong"
+					],
+					[
+						"p",
+						"padding"
+					],
+					[
+						"margi",
+						"margin-right"
+					],
+					[
+						"bo",
+						"border-bottom"
+					],
+					[
+						"background-",
+						"background-position"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"r",
+						"revert"
+					],
+					[
+						"i",
+						"inherit"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"c",
+						"cover"
+					],
+					[
+						"co",
+						"cover"
+					],
+					[
+						"ju",
+						"justify-content-center"
+					],
+					[
+						"btn-outline",
+						"btn-outline-success"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"tex",
+						"text-transform"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"v",
+						"visible"
+					],
+					[
+						"ov",
+						"overflow-y"
+					],
+					[
+						"t",
+						"target"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"me",
+						"me-3"
+					],
+					[
+						"fl",
+						"flex-wrap"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"n",
+						"fit-content"
+					],
+					[
+						"f",
+						"float"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"na",
+						"navcell"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"th",
+						"th"
+					],
+					[
+						"str",
+						"stroke-width"
+					],
+					[
+						"box",
+						"box-dati"
+					],
+					[
+						"border-",
+						"border-bottom"
+					],
+					[
+						"bord",
+						"border-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"ri-map",
+						"ri-map-pin-fill"
+					],
+					[
+						"pd",
+						"padding-left"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"card",
+						"card-body"
+					],
+					[
+						"fi",
+						"fill-opacity"
+					],
+					[
+						"dat",
+						"dataB"
+					],
+					[
+						"data",
+						"dataA"
+					],
+					[
+						"rgb",
+						"rgb()"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dave/.config/paru/paru.conf",
+				"/home/dave/.config/gtk-2.0/gtkfilechooser.ini",
+				"/home/dave/.config/dconf/settings/gsettings.sh",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/xfce4-taskmanager.rc",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/xfce4-screenshooter",
+				"/home/dave/ErikDubois/kiro-nemesis/install/install-virtualbox-for-linux.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/930-real-metal.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/999-last-changes.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/990-skel.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/gpg.conf",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/920-kiro.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/settings/sublimetext/Preferences.sublime-settings",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/900-install-personal-settings-folders.sh",
+				"/etc/qemu/bridge.conf",
+				"/home/dave/ARCH-ISO/AA/build-archlinux-with-alis.sh",
+				"/home/dave/ARCH-ISO/alis/alis.conf",
+				"/home/dave/ARCH-ISO/alis/alis-packages.conf",
+				"/etc/pacman.conf",
+				"/home/dave/.zshrc",
+				"/home/dave/ARCH-ISO/alis/files/home/zardoz/.conf/Thunar/accels.scm",
+				"/home/dave/ARCH-ISO/alis/files/home/zardoz/.conf/Thunar/renamerrc",
+				"/home/dave/.config/Thunar/uca.xml",
+				"/home/dave/.config/xfce4/panel/xfce4-clipman-actions.xml",
+				"/home/dave/.config/xfce4/panel/netload-9.rc",
+				"/home/dave/.config/xfce4/panel/whiskermenu-7.rc.copy",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml",
+				"/etc/libvirt/qemu/archlinux-alis.xml",
+				"/etc/libvirt/virtqemud.conf",
+				"/etc/libvirt/libvirtd.conf",
+				"/etc/libvirt/libvirt.conf",
+				"/etc/libvirt/qemu.conf",
+				"/home/dave/prova.txt",
+				"/home/dave/ARCH-ISO/alis/up.sh",
+				"/home/dave/ARCH-ISO/alis/alis-recovery.conf",
+				"/etc/mkinitcpio.conf",
+				"/home/dave/ARCH-ISO/alis/start.sh",
+				"/home/dave/ARCH-ISO/alis/2-setup-git.sh",
+				"/home/dave/ARCH-ISO/AA/alis",
+				"/home/dave/ErikDubois/area/build-archlinux-with-alis.sh",
+				"/home/dave/ErikDubois/area/alis",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/dconf/user",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/helpers.rc",
+				"/home/dave/ErikDubois/kiro-nemesis/0-current-choices.sh",
+				"/home/dave/ErikDubois/edu-dot-files/etc/skel/.config/qt5ct/qt5ct.conf",
+				"/home/dave/ErikDubois/edu-dot-files/usr/local/share/edu/pacman.conf",
+				"/home/dave/ErikDubois/edu-dot-files/usr/local/share/edu/mirrorlist",
+				"/home/dave/ErikDubois/edu-dot-files/setup-edu.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/edu-shells/build-data.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/build-data.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/91-copy-build-file-to-all-folders.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/1-build-all-packages.sh",
+				"/home/dave/ARCH-ISO/alis/.git/config",
+				"/home/dave/ARCH-ISO/alis/cloud-init/user-data",
+				"/home/dave/ARCH-ISO/alis/configs/alis-config-efi-ext4-systemd.sh",
+				"/home/dave/ARCH-ISO/alis/1-up.sh",
+				"/home/dave/ARCH-ISO/alis/download.sh",
+				"/home/dave/Scrivania/_OP.txt",
+				"/home/dave/ARCH-ISO/alis/alis-packages.sh",
+				"/home/dave/ARCH-ISO/alis/alis.sh",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/corsi-tecnici.php",
+				"/home/dave/ARCH-ISO/AA/nanorc",
+				"/home/dave/ARCH-ISO/AA/README.md",
+				"/home/dave/ARCH-ISO/AA/2-setup-git.sh",
+				"/home/dave/ARCH-ISO/AA/1-up.sh",
+				"/home/dave/.ssh/id_ed25519.pub",
+				"/home/dave/.ssh/known_hosts",
+				"/home/dave/.ssh/known_hosts.old",
+				"/home/dave/.ssh/id_ed25519",
+				"/home/dave/AA/AA/2-setup-git.sh",
+				"/home/dave/AA/AA/1-git.sh",
+				"/home/dave/AA/AA/.git/config",
+				"/home/dave/AA/AA/up.sh",
+				"/home/dave/AA/AA/set-git.sh",
+				"/home/dave/AA/2-setup-git.sh",
+				"/home/dave/AA/build-arch-alis-iso.sh",
+				"/home/dave/AA/1-git.sh",
+				"/home/dave/AA/alis/alis.sh",
+				"/home/dave/AA/alis/cloud-init/user-data",
+				"/home/dave/AA/alis/cloud-init/meta-data",
+				"/home/dave/AA/original-alis/files/etc/X11/xorg.conf.d/99-killX.conf",
+				"/home/dave/AA/original-alis/cloud-init/meta-data",
+				"/home/dave/AA/original-alis/cloud-init/user-data",
+				"/home/dave/ErikDubois/nemesis_repo/setup-edu.sh",
+				"/home/dave/ErikDubois/arcolinux-nemesis/Personal/settings/voyage-of-chadwm/anduin-chadwm/build-install-gittyup.sh",
+				"/home/dave/ErikDubois/arcolinux-nemesis/setup-git-v5.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/setup-git-v5.sh",
+				"/etc/default/grub",
+				"/home/dave/Scrivania/virt-manager.desktop",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/custom.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/adempimenti-burocratici/adempimenti-burocratici.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/app2.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/bootstrap.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/registro-carico-scarico/registro-carico-scarico.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/onboarding-benvenuto/onboarding-benvenuto.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/corsi-tecnici-2.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/22 - codice vba conta e somma per colore.txt",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/17.1PowerPivot2SourceData2.txt",
+				"/mnt/Ubuntu_Home/dave/Ufficio/Hera/fornitori/help-contratti.txt",
+				"/tmp/fz3temp-2/CLAUDE.md",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/academy-interna/academy-interna.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-gestori-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-gestori.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-dipendenti.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-dipendenti-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/parametri.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/soft-skills/soft-skills.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/procedure/procedure.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/procedura-scarico-prodotti-petroliferi/procedura-scarico-prodotti-petroliferi.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori-login.php",
+				"/tmp/fz3temp-2/index.html",
+				"/home/dave/pixelCloud/ACADEMY Retitalia 2025/Area riservata dipendenti/Corsi tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/22 - codice vba conta e somma per colore.txt",
+				"/home/dave/pixelCloud/ACADEMY Retitalia 2025/Area riservata dipendenti/Corsi tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/17.1PowerPivot2SourceData2.txt",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/index.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/css/font-awesome.min.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/css/style.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/james_vallicelli.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/jquery-ui.js",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/html5.js",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/custom.js"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"area",
+					"pack",
+					"/alis",
+					"user",
+					"--vz-link-hover-color",
+					"list-group",
+					"list-group-fill-download",
+					"-child",
+					"--vz-border-color",
+					".list-group-item",
+					"--vz-border-width",
+					"--vz-list-group-border-width",
+					"list-group-item",
+					"-filetype-zip",
+					"-ross",
+					"dipendenti/",
+					"-login",
+					"dipendenti/",
+					"blockq",
+					"font-fa",
+					"stretch:100",
+					"199",
+					"bbox",
+					"fonta",
+					"PIE",
+					"http://",
+					"https:",
+					"http:",
+					"http://",
+					"#",
+					"calc",
+					"project-info",
+					"|",
+					".text-",
+					"poster-",
+					"pillole/",
+					"mb-5",
+					"mb-3",
+					"mb-5",
+					"mb-3",
+					"hr",
+					"mb-5",
+					"--vz-link-hover",
+					"--vz-link",
+					"a:hover",
+					".text-dan",
+					"dip-",
+					"dipendenti-1.jpg",
+					".page-content",
+					".navbar-menu",
+					" .navbar-menu .navbar-nav .nav-link",
+					" .navbar-menu .navbar-nav .nav-link span",
+					"-menu-width-sm",
+					"data-sidebar-size=",
+					"data-sidebar-size=lg",
+					".ratio",
+					"@media",
+					".jpg",
+					"d-",
+					"d-n",
+					"display:",
+					"--vz-tex",
+					"flex:",
+					"list-group-fill-download",
+					" bt-1",
+					"--vz-border-color",
+					"--vz-border-width",
+					".accordion",
+					"collapseOne",
+					"Il Registro di Carico e Scarico/",
+					"$active",
+					"$pagina_corrente",
+					"$active",
+					"calc",
+					"<h4 ",
+					"mt-",
+					"video/",
+					"text-muted ",
+					"fw-semibold",
+					"ff-secondary",
+					"accordionExample",
+					"-flush",
+					"modulo-gestori.html",
+					"dipententi",
+					"--vz-aspect-ratio",
+					".ratio",
+					" allowfullscreen autoplay=\"false\"></video>",
+					"</iframe>",
+					"<iframe src",
+					"video",
+					".navbar-menu .navbar-nav .nav-item:hover>a.menu-link",
+					".btn-",
+					".btn",
+					"md-3",
+					".disable",
+					"fill",
+					"menu-ti",
+					"btn-vertical-sm-hover",
+					"navbar-brand-box",
+					"header-item",
+					".logo span.logo-lg",
+					"page-content",
+					"navbar-menu",
+					"@media",
+					".logo-sm",
+					".fade",
+					".card-body",
+					"box-",
+					"4",
+					"--vz-success-rgb",
+					"btn-outline-success",
+					".btn-outline",
+					"Poppins",
+					"Open Sans",
+					"Open",
+					"Poppins",
+					"2025-10-25",
+					"2025-10-13",
+					"2025-10-03",
+					"2025-10-04",
+					"2025-10-05",
+					"2025-10-10",
+					"2025-10-20",
+					"2025-10-25",
+					"2025-10-",
+					"2025-",
+					"error",
+					"user"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"-file-zip",
+					"dipendenti/corsi-tecnici/",
+					"-home",
+					"dipendenti/Power-Point/Livello-Base/",
+					"https://",
+					"| ",
+					"poster-registro-",
+					"",
+					"mb-4",
+					"dip-.webp",
+					".webp",
+					"faq-1",
+					"registro-carico-scarico/",
+					"$attivo",
+					"$active",
+					"<h4 id=\"v-1\" ",
+					"gestori/Il Registro di Carico e Scarico/pillole/",
+					"",
+					"faq-acc",
+					"modulo-dipendenti.html",
+					"dipendenti",
+					"></video>",
+					"</video>",
+					"<video class=\"w-100\" controls src",
+					"md-4",
+					"ti",
+					"</div>\"",
+					"\"<div",
+					"echo",
+					"dipendenti",
+					"evidenza",
+					"ti",
+					"--vz-blu-corporate",
+					"--vz-bianco",
+					"tt",
+					"tti",
+					"tt",
+					"ti",
+					"Retitalia Academy",
+					"",
+					"Leonardo Drei",
+					"leonardo_drei",
+					"Alberto Guidi",
+					"alberto_guidi",
+					"",
+					".html",
+					"../",
+					"images",
+					"src=\"images/",
+					"",
+					"href=\"../../analogsynth.css\">",
+					"images/",
+					"",
+					"images/",
+					"",
+					"src='../images/",
+					"HREF=\"../../analogsynth.css\">",
+					"src=\"../",
+					"html",
+					"href=\"",
+					"</a></div>",
+					".html\"",
+					"",
+					"\"",
+					"</a></div>",
+					"> <a href=\"www/",
+					"",
+					".html",
+					"",
+					"> <a href=\">",
+					"\">",
+					"</a></div>",
+					".html\">",
+					".html>",
+					"> <a href=\"www/",
+					"<a href=\"www/",
+					"<a href=\"",
+					"",
+					"</a></span>",
+					"> <a href=\"",
+					"",
+					".html",
+					"",
+					"<img src=\"imm/",
+					"src=\"imm/",
+					"",
+					"<li class=\"\"><a href=\"index-mini.html\">MINIMOOG</a>",
+					"<li class=\"\"><a href=\"#\">MINIMOOG</a></li>",
+					"<li class=\"j-nav-current\"><a href=\"index-mini.html\">MINIMOOG</a>\n                                <ul class=\"j-nav-level-1\">\n                                    <li class=\"\"><a href=\"mini-die-drei-fragen.html\">Le 3 domande</a></li>\n                                    <li class=\"\"><a href=\"mini-gehause.html\">Case</a></li>\n                                    <li class=\"\"><a href=\"mini-bauteile-und-anderungen.html\">Componenti e modifiche</a></li>\n                                    <li class=\"\"><a href=\"mini-modulbau.html\">Costruzione</a></li>\n                                    <li class=\"\"><a href=\"mini-zusammenbau.html\">Assemblaggio</a></li>\n                                    <li class=\"\"><a href=\"mini-bilder-und-sound.html\">Immagini &amp; Suono</a></li>\n                                </ul>\n                            </li>",
+					"png",
+					"jpg",
+					">Regolazione<",
+					"\"regolazione-kbd.html\"",
+					"index-kbd.html",
+					"index-kbd.kbd",
+					"",
+					"come",
+					"",
+					".com/watch?v=",
+					"",
+					"-",
+					"margin-top",
+					"l'oscilloscopio",
+					"",
+					",\\n",
+					"",
+					".",
+					"",
+					"imm/",
+					"}\\n\\n",
+					".png",
+					"imm",
+					"test",
+					"}\\n",
+					"",
+					"#146593",
+					"",
+					"\"",
+					":",
+					"",
+					"../../../images/",
+					"",
+					"../images/",
+					"",
+					"<img src=\"immagini/",
+					"",
+					"<img src=\"immagini/",
+					""
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": false,
+				"use_buffer2": false,
+				"use_gitignore": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 213.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 236.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2400.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"box-cor",
+						"box-corsi-item"
+					],
+					[
+						"m",
+						"margin-bottom"
+					],
+					[
+						"s",
+						"strong"
+					],
+					[
+						"p",
+						"padding"
+					],
+					[
+						"margi",
+						"margin-right"
+					],
+					[
+						"bo",
+						"border-bottom"
+					],
+					[
+						"background-",
+						"background-position"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"r",
+						"revert"
+					],
+					[
+						"i",
+						"inherit"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"c",
+						"cover"
+					],
+					[
+						"co",
+						"cover"
+					],
+					[
+						"ju",
+						"justify-content-center"
+					],
+					[
+						"btn-outline",
+						"btn-outline-success"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"tex",
+						"text-transform"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"v",
+						"visible"
+					],
+					[
+						"ov",
+						"overflow-y"
+					],
+					[
+						"t",
+						"target"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"me",
+						"me-3"
+					],
+					[
+						"fl",
+						"flex-wrap"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"n",
+						"fit-content"
+					],
+					[
+						"f",
+						"float"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"na",
+						"navcell"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"th",
+						"th"
+					],
+					[
+						"str",
+						"stroke-width"
+					],
+					[
+						"box",
+						"box-dati"
+					],
+					[
+						"border-",
+						"border-bottom"
+					],
+					[
+						"bord",
+						"border-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"ri-map",
+						"ri-map-pin-fill"
+					],
+					[
+						"pd",
+						"padding-left"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"card",
+						"card-body"
+					],
+					[
+						"fi",
+						"fill-opacity"
+					],
+					[
+						"dat",
+						"dataB"
+					],
+					[
+						"data",
+						"dataA"
+					],
+					[
+						"rgb",
+						"rgb()"
+					]
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dave/.config/paru/paru.conf",
+				"/home/dave/.config/gtk-2.0/gtkfilechooser.ini",
+				"/home/dave/.config/dconf/settings/gsettings.sh",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/xfce4-taskmanager.rc",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/xfce4-screenshooter",
+				"/home/dave/ErikDubois/kiro-nemesis/install/install-virtualbox-for-linux.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/930-real-metal.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/999-last-changes.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/990-skel.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/gpg.conf",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/920-kiro.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/settings/sublimetext/Preferences.sublime-settings",
+				"/home/dave/ErikDubois/kiro-nemesis/Personal/900-install-personal-settings-folders.sh",
+				"/etc/qemu/bridge.conf",
+				"/home/dave/ARCH-ISO/AA/build-archlinux-with-alis.sh",
+				"/home/dave/ARCH-ISO/alis/alis.conf",
+				"/home/dave/ARCH-ISO/alis/alis-packages.conf",
+				"/etc/pacman.conf",
+				"/home/dave/.zshrc",
+				"/home/dave/ARCH-ISO/alis/files/home/zardoz/.conf/Thunar/accels.scm",
+				"/home/dave/ARCH-ISO/alis/files/home/zardoz/.conf/Thunar/renamerrc",
+				"/home/dave/.config/Thunar/uca.xml",
+				"/home/dave/.config/xfce4/panel/xfce4-clipman-actions.xml",
+				"/home/dave/.config/xfce4/panel/netload-9.rc",
+				"/home/dave/.config/xfce4/panel/whiskermenu-7.rc.copy",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml",
+				"/home/dave/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml",
+				"/etc/libvirt/qemu/archlinux-alis.xml",
+				"/etc/libvirt/virtqemud.conf",
+				"/etc/libvirt/libvirtd.conf",
+				"/etc/libvirt/libvirt.conf",
+				"/etc/libvirt/qemu.conf",
+				"/home/dave/prova.txt",
+				"/home/dave/ARCH-ISO/alis/up.sh",
+				"/home/dave/ARCH-ISO/alis/alis-recovery.conf",
+				"/etc/mkinitcpio.conf",
+				"/home/dave/ARCH-ISO/alis/start.sh",
+				"/home/dave/ARCH-ISO/alis/2-setup-git.sh",
+				"/home/dave/ARCH-ISO/AA/alis",
+				"/home/dave/ErikDubois/area/build-archlinux-with-alis.sh",
+				"/home/dave/ErikDubois/area/alis",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/dconf/user",
+				"/home/dave/ErikDubois/edu-xfce/etc/skel/.config/xfce4/helpers.rc",
+				"/home/dave/ErikDubois/kiro-nemesis/0-current-choices.sh",
+				"/home/dave/ErikDubois/edu-dot-files/etc/skel/.config/qt5ct/qt5ct.conf",
+				"/home/dave/ErikDubois/edu-dot-files/usr/local/share/edu/pacman.conf",
+				"/home/dave/ErikDubois/edu-dot-files/usr/local/share/edu/mirrorlist",
+				"/home/dave/ErikDubois/edu-dot-files/setup-edu.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/edu-shells/build-data.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/build-data.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/91-copy-build-file-to-all-folders.sh",
+				"/home/dave/ErikDubois/edu-pkgbuild/1-build-all-packages.sh",
+				"/home/dave/ARCH-ISO/alis/.git/config",
+				"/home/dave/ARCH-ISO/alis/cloud-init/user-data",
+				"/home/dave/ARCH-ISO/alis/configs/alis-config-efi-ext4-systemd.sh",
+				"/home/dave/ARCH-ISO/alis/1-up.sh",
+				"/home/dave/ARCH-ISO/alis/download.sh",
+				"/home/dave/Scrivania/_OP.txt",
+				"/home/dave/ARCH-ISO/alis/alis-packages.sh",
+				"/home/dave/ARCH-ISO/alis/alis.sh",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/corsi-tecnici.php",
+				"/home/dave/ARCH-ISO/AA/nanorc",
+				"/home/dave/ARCH-ISO/AA/README.md",
+				"/home/dave/ARCH-ISO/AA/2-setup-git.sh",
+				"/home/dave/ARCH-ISO/AA/1-up.sh",
+				"/home/dave/.ssh/id_ed25519.pub",
+				"/home/dave/.ssh/known_hosts",
+				"/home/dave/.ssh/known_hosts.old",
+				"/home/dave/.ssh/id_ed25519",
+				"/home/dave/AA/AA/2-setup-git.sh",
+				"/home/dave/AA/AA/1-git.sh",
+				"/home/dave/AA/AA/.git/config",
+				"/home/dave/AA/AA/up.sh",
+				"/home/dave/AA/AA/set-git.sh",
+				"/home/dave/AA/2-setup-git.sh",
+				"/home/dave/AA/build-arch-alis-iso.sh",
+				"/home/dave/AA/1-git.sh",
+				"/home/dave/AA/alis/alis.sh",
+				"/home/dave/AA/alis/cloud-init/user-data",
+				"/home/dave/AA/alis/cloud-init/meta-data",
+				"/home/dave/AA/original-alis/files/etc/X11/xorg.conf.d/99-killX.conf",
+				"/home/dave/AA/original-alis/cloud-init/meta-data",
+				"/home/dave/AA/original-alis/cloud-init/user-data",
+				"/home/dave/ErikDubois/nemesis_repo/setup-edu.sh",
+				"/home/dave/ErikDubois/arcolinux-nemesis/Personal/settings/voyage-of-chadwm/anduin-chadwm/build-install-gittyup.sh",
+				"/home/dave/ErikDubois/arcolinux-nemesis/setup-git-v5.sh",
+				"/home/dave/ErikDubois/kiro-nemesis/setup-git-v5.sh",
+				"/etc/default/grub",
+				"/home/dave/Scrivania/virt-manager.desktop",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/custom.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/adempimenti-burocratici/adempimenti-burocratici.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/app2.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/css/bootstrap.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/registro-carico-scarico/registro-carico-scarico.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/onboarding-benvenuto/onboarding-benvenuto.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/corsi-tecnici-2.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/22 - codice vba conta e somma per colore.txt",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/corsi-tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/17.1PowerPivot2SourceData2.txt",
+				"/mnt/Ubuntu_Home/dave/Ufficio/Hera/fornitori/help-contratti.txt",
+				"/tmp/fz3temp-2/CLAUDE.md",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/academy-interna/academy-interna.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-gestori-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-gestori.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-dipendenti.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/side-dipendenti-home.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/layouts/parametri.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/soft-skills/soft-skills.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/dipendenti/procedure/procedure.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/gestori/procedura-scarico-prodotti-petroliferi/procedura-scarico-prodotti-petroliferi.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/siComunica/Retitalia-Academy/sito/www/area-gestori-login.php",
+				"/tmp/fz3temp-2/index.html",
+				"/home/dave/pixelCloud/ACADEMY Retitalia 2025/Area riservata dipendenti/Corsi tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/22 - codice vba conta e somma per colore.txt",
+				"/home/dave/pixelCloud/ACADEMY Retitalia 2025/Area riservata dipendenti/Corsi tecnici/Excel/Excel Livello Avanzato/Esercizi da effettuare durante il corso/17.1PowerPivot2SourceData2.txt",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/index.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/css/font-awesome.min.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/css/style.css",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/james_vallicelli.php",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/jquery-ui.js",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/html5.js",
+				"/mnt/Ubuntu_Home/dave/Lavori/Dave/FM/www/js/custom.js"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"area",
+					"pack",
+					"/alis",
+					"user",
+					"--vz-link-hover-color",
+					"list-group",
+					"list-group-fill-download",
+					"-child",
+					"--vz-border-color",
+					".list-group-item",
+					"--vz-border-width",
+					"--vz-list-group-border-width",
+					"list-group-item",
+					"-filetype-zip",
+					"-ross",
+					"dipendenti/",
+					"-login",
+					"dipendenti/",
+					"blockq",
+					"font-fa",
+					"stretch:100",
+					"199",
+					"bbox",
+					"fonta",
+					"PIE",
+					"http://",
+					"https:",
+					"http:",
+					"http://",
+					"#",
+					"calc",
+					"project-info",
+					"|",
+					".text-",
+					"poster-",
+					"pillole/",
+					"mb-5",
+					"mb-3",
+					"mb-5",
+					"mb-3",
+					"hr",
+					"mb-5",
+					"--vz-link-hover",
+					"--vz-link",
+					"a:hover",
+					".text-dan",
+					"dip-",
+					"dipendenti-1.jpg",
+					".page-content",
+					".navbar-menu",
+					" .navbar-menu .navbar-nav .nav-link",
+					" .navbar-menu .navbar-nav .nav-link span",
+					"-menu-width-sm",
+					"data-sidebar-size=",
+					"data-sidebar-size=lg",
+					".ratio",
+					"@media",
+					".jpg",
+					"d-",
+					"d-n",
+					"display:",
+					"--vz-tex",
+					"flex:",
+					"list-group-fill-download",
+					" bt-1",
+					"--vz-border-color",
+					"--vz-border-width",
+					".accordion",
+					"collapseOne",
+					"Il Registro di Carico e Scarico/",
+					"$active",
+					"$pagina_corrente",
+					"$active",
+					"calc",
+					"<h4 ",
+					"mt-",
+					"video/",
+					"text-muted ",
+					"fw-semibold",
+					"ff-secondary",
+					"accordionExample",
+					"-flush",
+					"modulo-gestori.html",
+					"dipententi",
+					"--vz-aspect-ratio",
+					".ratio",
+					" allowfullscreen autoplay=\"false\"></video>",
+					"</iframe>",
+					"<iframe src",
+					"video",
+					".navbar-menu .navbar-nav .nav-item:hover>a.menu-link",
+					".btn-",
+					".btn",
+					"md-3",
+					".disable",
+					"fill",
+					"menu-ti",
+					"btn-vertical-sm-hover",
+					"navbar-brand-box",
+					"header-item",
+					".logo span.logo-lg",
+					"page-content",
+					"navbar-menu",
+					"@media",
+					".logo-sm",
+					".fade",
+					".card-body",
+					"box-",
+					"4",
+					"--vz-success-rgb",
+					"btn-outline-success",
+					".btn-outline",
+					"Poppins",
+					"Open Sans",
+					"Open",
+					"Poppins",
+					"2025-10-25",
+					"2025-10-13",
+					"2025-10-03",
+					"2025-10-04",
+					"2025-10-05",
+					"2025-10-10",
+					"2025-10-20",
+					"2025-10-25",
+					"2025-10-",
+					"2025-",
+					"error",
+					"user"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"-file-zip",
+					"dipendenti/corsi-tecnici/",
+					"-home",
+					"dipendenti/Power-Point/Livello-Base/",
+					"https://",
+					"| ",
+					"poster-registro-",
+					"",
+					"mb-4",
+					"dip-.webp",
+					".webp",
+					"faq-1",
+					"registro-carico-scarico/",
+					"$attivo",
+					"$active",
+					"<h4 id=\"v-1\" ",
+					"gestori/Il Registro di Carico e Scarico/pillole/",
+					"",
+					"faq-acc",
+					"modulo-dipendenti.html",
+					"dipendenti",
+					"></video>",
+					"</video>",
+					"<video class=\"w-100\" controls src",
+					"md-4",
+					"ti",
+					"</div>\"",
+					"\"<div",
+					"echo",
+					"dipendenti",
+					"evidenza",
+					"ti",
+					"--vz-blu-corporate",
+					"--vz-bianco",
+					"tt",
+					"tti",
+					"tt",
+					"ti",
+					"Retitalia Academy",
+					"",
+					"Leonardo Drei",
+					"leonardo_drei",
+					"Alberto Guidi",
+					"alberto_guidi",
+					"",
+					".html",
+					"../",
+					"images",
+					"src=\"images/",
+					"",
+					"href=\"../../analogsynth.css\">",
+					"images/",
+					"",
+					"images/",
+					"",
+					"src='../images/",
+					"HREF=\"../../analogsynth.css\">",
+					"src=\"../",
+					"html",
+					"href=\"",
+					"</a></div>",
+					".html\"",
+					"",
+					"\"",
+					"</a></div>",
+					"> <a href=\"www/",
+					"",
+					".html",
+					"",
+					"> <a href=\">",
+					"\">",
+					"</a></div>",
+					".html\">",
+					".html>",
+					"> <a href=\"www/",
+					"<a href=\"www/",
+					"<a href=\"",
+					"",
+					"</a></span>",
+					"> <a href=\"",
+					"",
+					".html",
+					"",
+					"<img src=\"imm/",
+					"src=\"imm/",
+					"",
+					"<li class=\"\"><a href=\"index-mini.html\">MINIMOOG</a>",
+					"<li class=\"\"><a href=\"#\">MINIMOOG</a></li>",
+					"<li class=\"j-nav-current\"><a href=\"index-mini.html\">MINIMOOG</a>\n                                <ul class=\"j-nav-level-1\">\n                                    <li class=\"\"><a href=\"mini-die-drei-fragen.html\">Le 3 domande</a></li>\n                                    <li class=\"\"><a href=\"mini-gehause.html\">Case</a></li>\n                                    <li class=\"\"><a href=\"mini-bauteile-und-anderungen.html\">Componenti e modifiche</a></li>\n                                    <li class=\"\"><a href=\"mini-modulbau.html\">Costruzione</a></li>\n                                    <li class=\"\"><a href=\"mini-zusammenbau.html\">Assemblaggio</a></li>\n                                    <li class=\"\"><a href=\"mini-bilder-und-sound.html\">Immagini &amp; Suono</a></li>\n                                </ul>\n                            </li>",
+					"png",
+					"jpg",
+					">Regolazione<",
+					"\"regolazione-kbd.html\"",
+					"index-kbd.html",
+					"index-kbd.kbd",
+					"",
+					"come",
+					"",
+					".com/watch?v=",
+					"",
+					"-",
+					"margin-top",
+					"l'oscilloscopio",
+					"",
+					",\\n",
+					"",
+					".",
+					"",
+					"imm/",
+					"}\\n\\n",
+					".png",
+					"imm",
+					"test",
+					"}\\n",
+					"",
+					"#146593",
+					"",
+					"\"",
+					":",
+					"",
+					"../../../images/",
+					"",
+					"../images/",
+					"",
+					"<img src=\"immagini/",
+					"",
+					"<img src=\"immagini/",
+					""
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": false,
+				"use_buffer2": false,
+				"use_gitignore": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.946695095949,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 213.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1116,134,3516,1338,3610,1680,0",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 236.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 27
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/mnt/Ubuntu_Home/dave/Lavori/Hera/Acegas/acegas.sublime-workspace",
+			"/mnt/Ubuntu_Home/dave/Lavori/Hera/Acegas/www/pda.sublime-workspace",
+			"/mnt/Ubuntu_Home/dave/Lavori/Hera/Ciuffi/mrsp.sublime-workspace",
+			"/mnt/Ubuntu_Home/dave/Lavori/TheMenlove/2021_sito_02.sublime-workspace",
+			"/mnt/Ubuntu_Home/dave/Lavori/Hera/UniFlotte/uniflotte.sublime-workspace",
+			"/mnt/Ubuntu_Home/dave/Lavori/TheMenlove/2021_sito_01.sublime-workspace"
+		]
+	}
+}
