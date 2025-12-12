@@ -76,7 +76,6 @@ sudo pacman -S --noconfirm --needed playerctl
 sudo pacman -S --noconfirm --needed arandr
 sudo pacman -S --noconfirm --needed catfish
 sudo pacman -S --noconfirm --needed evince
-sudo pacman -S --noconfirm --needed neofetch-git
 sudo pacman -S --noconfirm --needed galculator
 sudo pacman -S --noconfirm --needed adobe-source-sans-fonts
 sudo pacman -S --noconfirm --needed avahi
@@ -91,7 +90,6 @@ fi
 sudo pacman -S --noconfirm --needed expac
 sudo pacman -S --noconfirm --needed fakeroot
 sudo pacman -S --noconfirm --needed file-roller
-sudo pacman -S --noconfirm --needed firefox
 sudo pacman -S --noconfirm --needed gnome-disk-utility
 sudo pacman -S --noconfirm --needed gparted
 sudo pacman -S --noconfirm --needed inetutils
@@ -109,7 +107,6 @@ sudo pacman -S --noconfirm --needed oh-my-zsh-git
 sudo pacman -S --noconfirm --needed polkit-gnome
 sudo pacman -S --noconfirm --needed qbittorrent
 sudo pacman -S --noconfirm --needed rate-mirrors
-sudo pacman -S --noconfirm --needed ripgrep
 sudo pacman -S --noconfirm --needed rsync
 sudo pacman -S --noconfirm --needed scrot
 sudo pacman -S --noconfirm --needed smartmontools
