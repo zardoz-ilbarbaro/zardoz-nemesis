@@ -63,13 +63,17 @@ sudo pacman -S --noconfirm --needed mkinitcpio-firmware
 sudo pacman -S --noconfirm --needed arc-gtk-theme
 sudo pacman -S --noconfirm --needed archlinux-logout-git
 sudo pacman -S --noconfirm --needed edu-sddm-simplicity-git
+
 sudo pacman -S --noconfirm --needed pamac-aur
+
+sudo pacman -S --noconfirm  edu-skel-git
+sudo pacman -S --noconfirm  edu-xfce-git
+sudo pacman -S --noconfirm  edu-system-git
+sudo pacman -S --noconfirm --needed rxvt-unicode
+sudo pacman -S --noconfirm --needed rxvt-unicode-terminfo
 
 # All the software below will be installed on all desktops
 sudo pacman -S --noconfirm --needed xorg-xkill
-sudo pacman -S --noconfirm --needed network-manager-applet
-sudo pacman -S --noconfirm --needed networkmanager-openvpn
-sudo pacman -S --noconfirm --needed networkmanager
 sudo pacman -S --noconfirm --needed numlockx
 sudo pacman -S --noconfirm --needed pavucontrol
 sudo pacman -S --noconfirm --needed playerctl

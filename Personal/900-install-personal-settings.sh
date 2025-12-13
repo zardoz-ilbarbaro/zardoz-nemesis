@@ -41,43 +41,8 @@ echo "################### Personal directories to create"
 echo "########################################################################"
 tput sgr0
 
-[ -d /etc/skel/.config ] || sudo mkdir -p /etc/skel/.config
+cp -r settings/. /home/zardoz/
 
-[ -d $HOME"/.bin" ] || mkdir -p $HOME"/.bin"
-[ -d $HOME"/.fonts" ] || mkdir -p $HOME"/.fonts"
-[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
-[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
-[ -d $HOME"/.local/share/icons" ] || mkdir -p $HOME"/.local/share/icons"
-[ -d $HOME"/.local/share/themes" ] || mkdir -p $HOME"/.local/share/themes"
-[ -d $HOME"/.local/share/applications" ] || mkdir -p $HOME"/.local/share/applications"
-[ -d $HOME"/.config" ] || mkdir -p $HOME"/.config"
-[ -d $HOME"/.config/xfce4" ] || mkdir -p $HOME"/.config/xfce4"
-[ -d $HOME"/.config/autostart" ] || mkdir -p $HOME"/.config/autostart"
-[ -d $HOME"/.config/xfce4/xfconf" ] || mkdir -p $HOME"/.config/xfce4/xfconf"
-[ -d $HOME"/.config/gtk-3.0" ] || mkdir -p $HOME"/.config/gtk-3.0"
-[ -d $HOME"/.config/gtk-4.0" ] || mkdir -p $HOME"/.config/gtk-4.0"
-[ -d $HOME"/.config/neofetch" ] || mkdir -p $HOME"/.config/neofetch"
-
-
-
-echo
-tput setaf 2
-echo "########################################################################"
-echo "################### Personal settings to install - any OS"
-echo "########################################################################"
-tput sgr0
-echo
-
-echo
-echo "Sublime text settings"
-echo
-[ -d $HOME"/.config/sublime-text/Packages/User" ] || mkdir -p $HOME"/.config/sublime-text/Packages/User"
-cp  $installed_dir/settings/sublimetext/Preferences.sublime-settings $HOME/.config/sublime-text/Packages/User/Preferences.sublime-settings
-echo
-
-echo "Tozsh we go"
-echo
-sudo chsh $USER -s /bin/zsh
 
 echo
 tput setaf 6
