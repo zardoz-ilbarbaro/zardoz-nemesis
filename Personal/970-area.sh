@@ -40,20 +40,13 @@ fi
 #echo "Enable fstrim timer for SSD"
 #sudo systemctl enable fstrim.timer
 
-
-echo
-tput setaf 2
-echo "################################################################################"
-echo "Copying gpg.conf to /etc/pacman.d/gnupg/gpg.conf"
-echo "################################################################################"
-tput sgr0
-echo
-
-# personal /etc/pacman.d/gnupg/gpg.conf
-sudo cp $installed_dir/settings/.config/gnupg/gpg.conf /etc/pacman.d/gnupg/gpg.conf
-
-read response
+read -p "Vuoi continuare? [y/N] " response
 if [[ "$response" == [yY] ]]; then
+
+	# personal /etc/pacman.d/gnupg/gpg.conf
+	sudo cp "$installed_dir/settings/.config/gnupg/gpg.conf" /etc/pacman.d/gnupg/gpg.conf
+
+	sudo cp "$installed_dir/background.jpg" /usr/share/sddm/themes/arcolinux-simplicity/images/
 
 	
 	echo
@@ -85,7 +78,7 @@ if [[ "$response" == [yY] ]]; then
 	echo
 	echo "copying cursor file"
 	if [ -d /usr/share/icons/default/cursors ]; then
-		sudo rm /usr/share/icons/default/cursors
+		sudo rm -r /usr/share/icons/default/cursors
 	fi
 	[ -d /usr/share/icons/default ] || sudo mkdir -p /usr/share/icons/default
 	sudo cp -f $installed_dir/settings/cursor/* /usr/share/icons/default

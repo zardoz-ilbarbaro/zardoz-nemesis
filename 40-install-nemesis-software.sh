@@ -62,6 +62,7 @@ fi
 sudo pacman -S --noconfirm --needed mkinitcpio-firmware
 sudo pacman -S --noconfirm --needed arc-gtk-theme
 sudo pacman -S --noconfirm --needed archlinux-logout-git
+sudo pacman -S --noconfirm --needed arcolinux-arc-dawn-git
 sudo pacman -S --noconfirm --needed edu-sddm-simplicity-git
 
 sudo pacman -S --noconfirm --needed pamac-aur
@@ -127,6 +128,7 @@ sudo pacman -S --noconfirm --needed ttf-ubuntu-font-family
 sudo pacman -S --noconfirm --needed mpv
 sudo pacman -S --noconfirm --needed wget
 sudo pacman -S --noconfirm --needed xdg-user-dirs
+sudo pacman -S --noconfirm --needed neofetch-git
 sudo pacman -S --noconfirm --needed zsh-completions
 sudo pacman -S --noconfirm --needed zsh-syntax-highlighting
 sudo systemctl enable avahi-daemon.service
