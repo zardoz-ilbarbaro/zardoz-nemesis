@@ -173,8 +173,8 @@ tput sgr0
 echo
 
 
-sh 100-install-nemesis-software*
-sh 200-install-cups*
+sh 40-install-nemesis-software*
+sh 50-install-cups*
 sh install-samba*
 
 echo
