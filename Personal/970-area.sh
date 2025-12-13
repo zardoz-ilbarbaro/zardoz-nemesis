@@ -50,7 +50,7 @@ tput sgr0
 echo
 
 # personal /etc/pacman.d/gnupg/gpg.conf
-sudo cp $installed_dir/settings/gnupg/gpg.conf /etc/pacman.d/gnupg/gpg.conf
+sudo cp $installed_dir/settings/.config/gnupg/gpg.conf /etc/pacman.d/gnupg/gpg.conf
 
 read response
 if [[ "$response" == [yY] ]]; then
