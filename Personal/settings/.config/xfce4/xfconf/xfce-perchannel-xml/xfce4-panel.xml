@@ -137,8 +137,8 @@
       <property name="symbolic-icons" type="bool" value="false"/>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu">
-      <property name="button-title" type="string" value="ArcoLinux  "/>
-      <property name="button-icon" type="string" value="start-here-arcolinux"/>
+      <property name="button-title" type="string" value="ArchLinux  "/>
+      <property name="button-icon" type="string" value="/home/zardoz/arcolinuxws.png"/>
       <property name="show-button-title" type="bool" value="true"/>
       <property name="launcher-show-tooltip" type="bool" value="false"/>
       <property name="launcher-icon-size" type="int" value="1"/>
