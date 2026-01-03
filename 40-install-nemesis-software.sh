@@ -76,6 +76,9 @@ sudo pacman -S --noconfirm --needed rxvt-unicode-terminfo
 
 # All the software below will be installed on all desktops
 sudo pacman -S --noconfirm --needed xorg-xkill
+sudo pacman -S --noconfirm --needed network-manager-applet
+sudo pacman -S --noconfirm --needed networkmanager-openvpn
+sudo pacman -S --noconfirm --needed networkmanager
 sudo pacman -S --noconfirm --needed numlockx
 sudo pacman -S --noconfirm --needed pavucontrol
 sudo pacman -S --noconfirm --needed playerctl
@@ -106,6 +109,7 @@ sudo pacman -S --noconfirm --needed lshw
 sudo pacman -S --noconfirm --needed man-db
 sudo pacman -S --noconfirm --needed man-pages
 sudo pacman -S --noconfirm --needed plocate
+sudo pacman -S --noconfirm --needed meld
 sudo pacman -S --noconfirm --needed ntp
 sudo pacman -S --noconfirm --needed nss-mdns
 sudo pacman -S --noconfirm --needed oh-my-zsh-git
