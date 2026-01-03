@@ -65,6 +65,8 @@ sudo pacman -S --noconfirm --needed archlinux-logout-git
 sudo pacman -S --noconfirm --needed arcolinux-arc-dawn-git
 sudo pacman -S --noconfirm --needed edu-sddm-simplicity-git
 
+sudo pacman -S --noconfirm --needed nextcloud-client
+
 sudo pacman -S --noconfirm --needed pamac-aur
 sudo paru -S --noconfirm --needed jre8 8u441-1
 
