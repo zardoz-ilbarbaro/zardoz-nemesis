@@ -64,6 +64,7 @@ sudo pacman -S --noconfirm --needed arc-gtk-theme
 sudo pacman -S --noconfirm --needed archlinux-logout-git
 sudo pacman -S --noconfirm --needed edu-sddm-simplicity-git
 sudo pacman -S --noconfirm --needed pamac-aur
+sudo paru -S --noconfirm --needed jre8 8u441-1
 
 # All the software below will be installed on all desktops
 sudo pacman -S --noconfirm --needed xorg-xkill
@@ -135,9 +136,7 @@ sudo pacman -S --noconfirm --needed unace
 sudo pacman -S --noconfirm --needed unrar
 sudo pacman -S --noconfirm --needed unzip
 
-if [ ! -f /usr/share/xsessions/plasmax11.desktop ]; then
-  sudo pacman -S --noconfirm --needed qt5ct
-fi
+sudo pacman -S --noconfirm --needed qt5ct
 
 sudo pacman -S --noconfirm --needed telegram-desktop
 
